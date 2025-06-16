@@ -10,9 +10,12 @@ title: lowkey
 - Apps Script
 
 # Liquid test
-{% for goal in site.data.learning_goals %}
-### {{ goal.id }}: {{ goal.goal }}
-{% for crit in goal.criteria %}
-- {{ crit }}
+{% for lg in site.data.earning_goals.earning_goals %}
+## {{ lg.goal }} ({{ lg.id }})
+**Criteria:**
+<ul>
+{% for c in lg.criteria %}
+  <li>{{ c }}</li>
 {% endfor %}
+</ul>
 {% endfor %}
