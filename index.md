@@ -1,6 +1,5 @@
 ---
-layout: default
-title: Lowkey
+title: lowkey
 ---
 
 
