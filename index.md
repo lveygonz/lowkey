@@ -9,3 +9,9 @@ title: lowkey
 # Scripts
 - Apps Script
 
+{% for goal in site.data.learning_goals %}
+### {{ goal.id }}: {{ goal.goal }}
+{% for crit in goal.criteria %}
+- {{ crit }}
+{% endfor %}
+{% endfor %}
