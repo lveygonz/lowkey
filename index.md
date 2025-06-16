@@ -1,6 +1,5 @@
 ---
 title: Lowkey
-description: A house is not a home
 ---
 
 
