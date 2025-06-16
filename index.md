@@ -9,6 +9,7 @@ title: lowkey
 # Scripts
 - Apps Script
 
+# Liquid test
 {% for goal in site.data.learning_goals %}
 ### {{ goal.id }}: {{ goal.goal }}
 {% for crit in goal.criteria %}
