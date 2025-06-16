@@ -1,0 +1,12 @@
+learning_goals:
+  - id: LG1
+    goal: "Understand basic algebra concepts"
+    criteria:
+      - "Solve linear equations"
+      - "Graph linear functions"
+  - id: LG2
+    goal: "Develop scientific inquiry skills"
+    criteria:
+      - "Formulate hypotheses"
+      - "Conduct controlled experiments"
+      - "Analyze data critically"
