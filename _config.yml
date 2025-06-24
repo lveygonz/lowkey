@@ -1,5 +1,6 @@
-theme: minima
+remote_theme: just-the-docs/just-the-docs
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 title: [lowkey]
 description: [a house is not a home]
