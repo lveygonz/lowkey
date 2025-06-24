@@ -1,6 +1,6 @@
-remote_theme: just-the-docs/just-the-docs
+remote_theme: amitmerchant1990/reverie
 plugins:
-  - jekyll-feed
   - jekyll-remote-theme
-title: [lowkey]
-description: [a house is not a home]
+
+title: "lowkey"
+description: "A type b log"
