@@ -1,4 +1,4 @@
-remote_theme: amitmerchant1990/reverie
+remote_theme: mmistakes/so-simple-theme
 plugins:
   - jekyll-remote-theme
 
