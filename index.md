@@ -1,6 +1,6 @@
 ---
-layout: home
-title: lowkey
+title: "Lowkey"
+nav_order: 1
 ---
 
 
